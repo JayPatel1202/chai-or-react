@@ -1,5 +1,11 @@
+import Chai from "./chai";
+
 function App() {
-  return <h1>Chai-or-react-vite</h1>;
+  return (
+    <>
+      <Chai></Chai>
+    </>
+  );
 }
 
 export default App;
